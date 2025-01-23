@@ -3,6 +3,6 @@ You can assume that each student is assigned only 1 book and each book listed is
 
 1.	A .csv file called full_information.csv containing the Book_ID, Book_Title, Student_ID, Last_Name, First_Name, and Report_Submitted columns and all the data from the 2 given .csv files consolidated (you will thus end up with exactly 30 rows in this new file since they are no duplicates).  For example, one of the rows in the file will be:
 
-1113	Pennypacker	Phuong	97	Haunted In Eternity	YES
+  1113	Pennypacker	Phuong	97	Haunted In Eternity	YES
 
 2. A .csv file called pending_reports.csv containing the same columns as the above problem but contains only the rows of data of the students who did not submit their book report yet (you will thus end up with less than 30 rows of data in this new file).
